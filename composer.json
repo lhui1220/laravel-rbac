@@ -11,5 +11,6 @@
             "name": "Liu Hui",
             "email": "lhui1220@qq.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
