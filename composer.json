@@ -1,0 +1,15 @@
+{
+    "name": "geekio/laravel-rbac",
+    "description": "RBAC permission management system for laravel project.",
+    "type": "library",
+    "require": {
+        "laravel/framework": "5.8.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Liu Hui",
+            "email": "lhui1220@qq.com"
+        }
+    ]
+}
